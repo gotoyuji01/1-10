@@ -77,9 +77,12 @@ footer{
  }  
  
  .item{
-   width: 100%;
+   width: 86%;
+   margin:20px auto;
+ }
+ 
+ .item:last-child{
+  margin-right: auto;
  }
    
-  
-  
 }
